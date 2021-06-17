@@ -5,6 +5,8 @@
         "browser": true
     },
     "rules": {
+        "no-unused-vars": "warn",
+        "no-multiple-empty-lines": "warn",
         "no-restricted-syntax": [
             "error",
             "LabeledStatement",
